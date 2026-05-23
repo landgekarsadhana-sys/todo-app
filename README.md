@@ -68,15 +68,13 @@ Backend runs on: http://localhost:5000
 ## 📸 Screenshots
 
 ### Home Page
-![Home](./home.png)
+![Home](./screenshots/home.png)
 
 ### Tasks Page
-![Tasks](./tasks.png)
+![Tasks](./screenshots/tasks.png)
 
 ### MongoDB Database
-![Database](./mongodb-database.png)
-
----
+![Database](./screenshots/mongodb-database.png)
 
 ## 👨‍💻 Author
 Your Name  
