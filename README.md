@@ -27,7 +27,7 @@ backend/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/landgekarsadhana-sys/todo-app.git
 
 ### 2. Backend setup
 cd backend  
