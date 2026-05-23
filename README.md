@@ -72,8 +72,8 @@ Backend runs on: http://localhost:5000
 
 ## 👨‍💻 Author
 Your Name  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
+GitHub: https://github.com/landgekarsadhana-sys  
+LinkedIn: https://www.linkedin.com/in/sadhana-landgekar-7432213a2 
 
 ---
 
