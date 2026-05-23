@@ -66,14 +66,22 @@ Backend runs on: http://localhost:5000
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your project here)
+
+### Home Page
+![Home](./home.png)
+
+### Tasks Page
+![Tasks](./tasks.png)
+
+### MongoDB Database
+![Database](./mongodb-database.png)
 
 ---
 
 ## 👨‍💻 Author
 Your Name  
-GitHub: https://github.com/landgekarsadhana-sys  
-LinkedIn: https://www.linkedin.com/in/sadhana-landgekar-7432213a2 
+GitHub: https://github.com/landgekarsadhana-sys/todo-app  
+LinkedIn: https://www.linkedin.com/in/sadhana-landgekar-7432213a2  
 
 ---
 
